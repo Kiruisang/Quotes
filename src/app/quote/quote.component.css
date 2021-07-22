@@ -1,9 +1,9 @@
 #qcard{
-    background-color: powderblue;
-    border-color: rgb(78, 250, 250); 
+    background-color: rgb(197, 171, 186);
+    border-color: rgb(153, 173, 64); 
  }
  .details{
-     background-color: rgb(94, 217, 233);
+     background-color: rgb(35, 17, 117);
      width: 100px;
      text-align: center;
      margin-left: 20%;
@@ -11,4 +11,7 @@
  }
  .xyz{
      background-color: rgb(7, 218, 218);
+ }
+ .qq{
+     background-color: black;
  }
