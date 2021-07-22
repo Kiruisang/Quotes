@@ -1,0 +1,14 @@
+#qcard{
+    background-color: powderblue;
+    border-color: rgb(78, 250, 250); 
+ }
+ .details{
+     background-color: rgb(94, 217, 233);
+     width: 100px;
+     text-align: center;
+     margin-left: 20%;
+     border-color: powderblue;
+ }
+ .xyz{
+     background-color: rgb(7, 218, 218);
+ }
