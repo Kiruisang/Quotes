@@ -9,7 +9,7 @@
 This is angular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
 
 ## Live Page 
-
+(https://kiruisang.github.io/Quotes/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
