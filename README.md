@@ -11,7 +11,7 @@ This is angular cli application that displays quotes, allow the user to input ne
 ## Live Page 
 (https://kiruisang.github.io/Quotes/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
 
 ## Development server
 
